@@ -36,10 +36,10 @@ export default async function handler(req, res) {
   }
 
   // 🔹 Replace these with your actual details
-  const FULL_NAME = "john_doe";   // lowercase
-  const DOB = "17091999";         // ddmmyyyy
-  const EMAIL = "john@xyz.com";
-  const ROLL_NUMBER = "ABCD123";
+  const FULL_NAME = "tashadur_rahman";   // lowercase
+  const DOB = "19022004";         // ddmmyyyy
+  const EMAIL = "tashadurrahman2024@gmail.com";
+  const ROLL_NUMBER = "22BRS1304";
 
   let oddNumbers = [];
   let evenNumbers = [];
